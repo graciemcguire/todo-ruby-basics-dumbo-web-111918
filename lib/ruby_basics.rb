@@ -7,21 +7,21 @@ def assign_variable(value)
 end
 
 def argue
+  argue
+end
+
+def greeting(greeting, name)
   
 end
 
-def greeting
-
-end
-
 def return_a_value
-
+  "Nice"
 end
 
 def last_evaluated_value
-
+  
 end
 
-def pizza_party
-
+def pizza_party(pizza = "cheese")
+  pizza
 end
